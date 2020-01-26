@@ -11,6 +11,7 @@ HEADING
 	color: white;
 	background-color: black;
 	border-color: black;
+	cursor: pointer;
 }
 
 .im {
