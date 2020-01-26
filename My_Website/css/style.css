@@ -59,6 +59,9 @@ li a:hover:not(.active) {
 	background-color: orange;
 	
 }
+
+a { cursor: pointer; }
+
 .active {
 	background-color: #4CAF50;
 }
@@ -159,6 +162,26 @@ max-width: 100%;}
   to {opacity: 1}
 }
 
+#my-object-about {
+  min-width: 100%;
+  min-height: 770px;
+}
+
+#my-object-academics {
+  min-width: 100%;
+  min-height: 1465px;
+}
+
+#my-object-studentLife {
+  min-width: 100%;
+  min-height: 380px;
+}
+
+#my-object-contact {
+  min-width: 100%;
+  min-height: 270px;
+}
+	
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 500px) {
   .text {font-size: 11px}
@@ -170,7 +193,7 @@ footer {
 font-size: 20px;
 text-align: center;
 clear: both;
-padding-top: 280px;
+padding-top: 20px;
 
 }
 h4 {
