@@ -21,17 +21,17 @@ It also tells about Accrediation of UNO
   >This page contains contact Information.
   
 ## Getting Started
-### Index.html
+- ### Index.html
  >The website starts by clicking this html file.This is the home page of website.
 
-### Pages
+- ### Pages
  >This folder consist of four pages i.e about.html, academics.html, studentLife.html and contact.html files.We can 
  stroll on these pages by clicking tabs on navigation bar.
  
-### CSS
+- ### CSS
  >This folder consist of Cascade Style Sheet file. The file consist of style format of each html page. 
  
-### images
+- ### images
  >This folder contains all images I used for home and academics page.
  
 ## Author
